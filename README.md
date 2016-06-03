@@ -10,3 +10,4 @@ test -d $filename && echo filetype="file is a directory "&& exit 0
 test -r $filename && perm="readable"
 test -w $filename && perm="$perm writable"
 test -x $filename && perm="$perm executable"
+1
