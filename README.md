@@ -19,4 +19,4 @@ h.	test -x $filename && perm="$perm executable" 1
 
 
 hello kevin
-
+hello Friday
